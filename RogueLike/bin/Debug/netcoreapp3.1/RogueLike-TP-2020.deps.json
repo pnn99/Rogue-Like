@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RogueLike-TP-2020/1.0.0": {
+        "runtime": {
+          "RogueLike-TP-2020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RogueLike-TP-2020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

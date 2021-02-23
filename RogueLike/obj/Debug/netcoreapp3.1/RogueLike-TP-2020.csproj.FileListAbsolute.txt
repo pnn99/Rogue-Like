@@ -1,0 +1,11 @@
+/home/paulo/ATP-lab/RogueLike-TP-2020/bin/Debug/netcoreapp3.1/RogueLike-TP-2020
+/home/paulo/ATP-lab/RogueLike-TP-2020/bin/Debug/netcoreapp3.1/RogueLike-TP-2020.deps.json
+/home/paulo/ATP-lab/RogueLike-TP-2020/bin/Debug/netcoreapp3.1/RogueLike-TP-2020.runtimeconfig.json
+/home/paulo/ATP-lab/RogueLike-TP-2020/bin/Debug/netcoreapp3.1/RogueLike-TP-2020.runtimeconfig.dev.json
+/home/paulo/ATP-lab/RogueLike-TP-2020/bin/Debug/netcoreapp3.1/RogueLike-TP-2020.dll
+/home/paulo/ATP-lab/RogueLike-TP-2020/bin/Debug/netcoreapp3.1/RogueLike-TP-2020.pdb
+/home/paulo/ATP-lab/RogueLike-TP-2020/obj/Debug/netcoreapp3.1/RogueLike-TP-2020.csprojAssemblyReference.cache
+/home/paulo/ATP-lab/RogueLike-TP-2020/obj/Debug/netcoreapp3.1/RogueLike-TP-2020.AssemblyInfoInputs.cache
+/home/paulo/ATP-lab/RogueLike-TP-2020/obj/Debug/netcoreapp3.1/RogueLike-TP-2020.AssemblyInfo.cs
+/home/paulo/ATP-lab/RogueLike-TP-2020/obj/Debug/netcoreapp3.1/RogueLike-TP-2020.dll
+/home/paulo/ATP-lab/RogueLike-TP-2020/obj/Debug/netcoreapp3.1/RogueLike-TP-2020.pdb
